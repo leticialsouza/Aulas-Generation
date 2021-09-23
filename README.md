@@ -1,2 +1,2 @@
-# Lacos_condicionais
-Exercícios aula 02 Java - Generation Brasil
+# Exercícios de back end, banco de dados e front end
+ Generation Brasil Ago-Nov 2021
